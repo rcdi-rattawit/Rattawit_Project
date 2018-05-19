@@ -6,7 +6,7 @@ import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 const API_KEY = 'AIzaSyC4qC-KVygcmY54uOICpM8FFLpriI8hpN0';
 
-class App extends Component {
+class App extends Component {  
     constructor(props){
         super(props);
 
